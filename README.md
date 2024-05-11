@@ -9,4 +9,4 @@ Dataset Link: Brazilian E-Commerce Public Dataset by Olist | Kaggle
 
 Question 1: Create ERD by creating the database from the data set in the given link and add it visually. Geolocation table will not be used in the project.
 
-![Alt text](relative%20path/sql_1.webp "Title")
+![Alt text](main/sql_1.webp "Title")
